@@ -12,7 +12,7 @@ El primer paso fue realizar un daily para conocernos y leer detenidamente nuestr
 
 Los siguiente fue realizar una investigación evaluando las páginas web de gestión de negocios encontradas en nuestro país, destacamos a Bsale, se pudo constatar que puede administrar el negocio 100% online, analiza lo que vendes en tiempo real, opción de boleta y factura electrónica, entre otras cosas.
 
-
+![bsale](https://user-images.githubusercontent.com/32302490/37975637-23751238-31b6-11e8-9ff5-12121263d5af.png)
  
 Para conocer a nuestros potenciales usuarios, se efectúan entrevistas a microempresarios donde se identifican las principales necesidades teniendo los siguientes insights:
  
