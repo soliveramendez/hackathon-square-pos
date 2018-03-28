@@ -1,6 +1,6 @@
 # Mi Punto de Venta
 
-![mi punto venta](https://user-images.githubusercontent.com/32302490/38047936-4a00bd46-329a-11e8-93fa-b7bb8d2af708.png)
+![mi punto venta](https://user-images.githubusercontent.com/32302490/38048429-bac4a4e2-329b-11e8-9505-3489baec2185.png)
 
 ¿De qué trata su producto?
 Mi punto venta es una página destinada a los pequeños y medianos empresarios que necesitan organizar su negocio de manera metódica con la finalidad de facilitar los procesos asociados al negocio. Este sitio reúne de una manera fácil y rápida las principales gestiones que debe realizar el empresario para optimizar su negocio.
