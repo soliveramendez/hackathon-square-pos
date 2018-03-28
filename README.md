@@ -1,6 +1,6 @@
 # Mi Punto de Venta
 
-[mi punto venta](https://user-images.githubusercontent.com/32302490/38047268-5c93ae48-3298-11e8-8cd9-9be98cf6ee94.png)
+(https://user-images.githubusercontent.com/32302490/38047268-5c93ae48-3298-11e8-8cd9-9be98cf6ee94.png)
 
 
 ¿De qué trata su producto?
